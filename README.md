@@ -2,6 +2,7 @@
  Select homework assignments from intro to computational physics.
  ## Conway's Game of Life
  https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+ 
  A random 2d grid is generated, and then is set into simulation according to the rules in Conway's "Game of Life" (see link above).
  
  ![An example run](https://github.com/ssmith00/Computational-Physics/blob/master/Conway's%20Game%20of%20Life/1gifoutput.gif)
